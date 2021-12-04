@@ -5,5 +5,5 @@ num2 = 6.3
 
 sum = num1 + num2
 
-# Display the sum
+# Display the sum of two number
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
